@@ -18,8 +18,8 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Vrahmaputra
-email: vrahmaputra@gmail.com
+title: Brahmaputra
+email: brahmaputra@gmail.com
 description: "Suppose that communal kitchen years to come perhaps. 
 All trotting down with porringers and tommycans to be filled. 
 Devour contents in the street. John Howard Parnell example the provost of Trinity 
@@ -28,8 +28,8 @@ of Trinity women and children cabmen priests parsons fieldmarshals archbishops."
 #>- # this means to ignore newlines until "baseurl:"
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: Vrahmaputra
-github_username:  Vrahmaputra
+twitter_username: Brahmaputra
+github_username:  Brahmaputra
 
 # Build settings
 theme: minima
