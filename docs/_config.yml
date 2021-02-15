@@ -20,12 +20,12 @@
 
 title: Vrahmaputra
 email: vrahmaputra@gmail.com
-description: >- # this means to ignore newlines until "baseurl:"
-Suppose that communal kitchen years to come perhaps. 
+description: "Suppose that communal kitchen years to come perhaps. 
 All trotting down with porringers and tommycans to be filled. 
 Devour contents in the street. John Howard Parnell example the provost of Trinity 
 every mother’s son don’t talk of your provosts and provost 
-of Trinity women and children cabmen priests parsons fieldmarshals archbishops. 
+of Trinity women and children cabmen priests parsons fieldmarshals archbishops."
+#>- # this means to ignore newlines until "baseurl:"
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: Vrahmaputra
@@ -34,7 +34,7 @@ github_username:  Vrahmaputra
 # Build settings
 theme: minima
 plugins:
-  #- jekyll-feed
+  - jekyll-feed
 
 # Exclude from processing.
 # The following items will not be processed, by default.
